@@ -1,6 +1,6 @@
 # The source code is the demo of for the paper: Deep Incomplete Multi-view Clustering with Dual Consistencies via IB. The whole code will be public after the acceptance.
 
-# Train the DIMC-DC model
+## The usage of DIMC-DC model
 
 ``` 
 --dataset wikipedia --data_dir data/wikipedia --pretrain load_ae
