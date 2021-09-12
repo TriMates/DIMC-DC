@@ -1,7 +1,6 @@
-# The source code is the demo of for the paper: Deep Incomplete Multi-view Clustering with Dual Consistencies via IB.
-# The whole code will be public on https://github.com/TriMates/DIMC-DC, after the acceptance.
+# The source code is the demo of for the paper: Deep Incomplete Multi-view Clustering with Dual Consistencies via IB. The whole code will be public after the acceptance.
 
-## Train the DIMC-DC model
+# Train the DIMC-DC model
 
 ``` 
 --dataset wikipedia --data_dir data/wikipedia --pretrain load_ae
